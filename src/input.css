@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .max-w-60 {
+        max-width: 15rem;
+    }
+}
